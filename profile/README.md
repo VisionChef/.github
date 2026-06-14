@@ -1,6 +1,6 @@
 ﻿# 🍳 VisionChef
 
-<img src="profile/banner.png" alt="VisionChef Banner" width="100%" />
+<img src="banner.png" alt="VisionChef Banner" width="100%" />
 
 > **사용자가 가진 식재료를 AI가 시각적으로 파악해 맞춤형 요리를 제안하는 스마트 쿠킹 서비스**
 >
