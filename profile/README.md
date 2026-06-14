@@ -60,7 +60,19 @@ VisionChef/
 
 ## 👥 팀원
 
-<img width="1103" height="1080" alt="제목을 입력해주세요  (16)" src="https://github.com/user-attachments/assets/cd26320f-f517-4652-8717-1d6cb22f2a8b" />
+<p align="center">
+  <a href="https://github.com/JM-KIMM"><img src="readme-cards/jin.png" width="210" alt="김진명 · LLM"/></a>
+  <a href="https://github.com/siikko"><img src="readme-cards/sieun.png" width="210" alt="이시은 · Web"/></a>
+  <a href="https://github.com/min8-8"><img src="readme-cards/minsol.png" width="210" alt="강민솔 · CV"/></a>
+  <a href="https://github.com/L-SeungJin"><img src="readme-cards/seungjin.png" width="210" alt="이승진 · CV"/></a>
+</p>
+
+| 이름 | 역할 | GitHub |
+|------|------|--------|
+| 김진명 | LLM · RAG | [@JM-KIMM](https://github.com/JM-KIMM) |
+| 이시은 | Web · LLM | [@siikko](https://github.com/siikko) |
+| 강민솔 | CV | [@min8-8](https://github.com/min8-8) |
+| 이승진 | CV | [@L-SeungJin](https://github.com/L-SeungJin) |
 
 <br>
 
