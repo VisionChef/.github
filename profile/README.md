@@ -1,5 +1,7 @@
 ﻿# 🍳 VisionChef
 
+<img src="profile/banner.png" alt="VisionChef Banner" width="100%" />
+
 > **사용자가 가진 식재료를 AI가 시각적으로 파악해 맞춤형 요리를 제안하는 스마트 쿠킹 서비스**
 >
 > 단순한 레시피 검색을 넘어, 실시간 소통을 통해 요리의 완성까지 밀착 가이드하는 **인터랙티브 AI 코파일럿**입니다.
