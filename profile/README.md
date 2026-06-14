@@ -13,7 +13,7 @@
 VisionChef는 냉장고 속 재료를 카메라로 찍으면, AI가 재료를 자동으로 인식하고 만들 수 있는 요리를 추천해줍니다.
 추천에서 그치지 않고, 요리 과정 전반을 실시간으로 함께하는 **쿠킹 코파일럿** 경험을 제공합니다.
 
-<img width="1519" height="1103" alt="image" src="https://github.com/user-attachments/assets/817f5504-e18b-4faa-93cf-766ee598cd26" />
+<img src="pipeline.png" alt="VisionChef Pipeline" width="100%" />
 
 <br><br><br>
 
